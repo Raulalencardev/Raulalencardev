@@ -1,16 +1,30 @@
-## Hi there 👋
+🔭 Atualmente trabalhando em [Nome do Projeto/Empresa]
 
-<!--
-**Raulalencardev/Raulalencardev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+    🌱 No momento estou aprofundando meus conhecimentos em [Tecnologia que está estudando]
 
-Here are some ideas to get you started:
+    💡 Tenho interesse em Desenvolvimento Web, Arquitetura de Software e UX/UI
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+    💬 Pode me perguntar sobre [Suas principais habilidades ou tecnologias]
+
+    📫 Como me encontrar: [seu-email@dominio.com]
+
+🛠️ Tecnologias e Ferramentas
+💻 Linguagens de Programação
+
+p>
+🌐 Frontend & Backend
+🔧 Ferramentas & Ambientes
+📊 Estatísticas do GitHub
+
+🤝 Conecte-se Comigo
+
+[
+
+](https://www.linkedin.com/in/SEU_PERFIL_LINKEDIN)
+[
+
+](mailto:seu-email@dominio.com)
+[
+
+](https://seu-portfolio.com)
 -->
